@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alan3\\OneDrive\\Escritorio\\juego\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB281D2-EDDF-4AB7-AE05-5A35321C0D87}|juego\\juego.csproj|c:\\users\\alan3\\onedrive\\escritorio\\juego\\juego\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FB281D2-EDDF-4AB7-AE05-5A35321C0D87}|juego\\juego.csproj|solutionrelative:juego\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB281D2-EDDF-4AB7-AE05-5A35321C0D87}|juego\\juego.csproj|C:\\Users\\alan3\\OneDrive\\Escritorio\\juego\\juego\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9FB281D2-EDDF-4AB7-AE05-5A35321C0D87}|juego\\juego.csproj|solutionrelative:juego\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB281D2-EDDF-4AB7-AE05-5A35321C0D87}|juego\\juego.csproj|c:\\users\\alan3\\onedrive\\escritorio\\juego\\juego\\juego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FB281D2-EDDF-4AB7-AE05-5A35321C0D87}|juego\\juego.csproj|solutionrelative:juego\\juego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB281D2-EDDF-4AB7-AE05-5A35321C0D87}|juego\\juego.csproj|c:\\users\\alan3\\onedrive\\escritorio\\juego\\juego\\papel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FB281D2-EDDF-4AB7-AE05-5A35321C0D87}|juego\\juego.csproj|solutionrelative:juego\\papel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB281D2-EDDF-4AB7-AE05-5A35321C0D87}|juego\\juego.csproj|c:\\users\\alan3\\onedrive\\escritorio\\juego\\juego\\maquina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FB281D2-EDDF-4AB7-AE05-5A35321C0D87}|juego\\juego.csproj|solutionrelative:juego\\maquina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB281D2-EDDF-4AB7-AE05-5A35321C0D87}|juego\\juego.csproj|c:\\users\\alan3\\onedrive\\escritorio\\juego\\juego\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FB281D2-EDDF-4AB7-AE05-5A35321C0D87}|juego\\juego.csproj|solutionrelative:juego\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB281D2-EDDF-4AB7-AE05-5A35321C0D87}|juego\\juego.csproj|c:\\users\\alan3\\onedrive\\escritorio\\juego\\juego\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FB281D2-EDDF-4AB7-AE05-5A35321C0D87}|juego\\juego.csproj|solutionrelative:juego\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB281D2-EDDF-4AB7-AE05-5A35321C0D87}|juego\\juego.csproj|c:\\users\\alan3\\onedrive\\escritorio\\juego\\juego\\tirada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FB281D2-EDDF-4AB7-AE05-5A35321C0D87}|juego\\juego.csproj|solutionrelative:juego\\tirada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB281D2-EDDF-4AB7-AE05-5A35321C0D87}|juego\\juego.csproj|c:\\users\\alan3\\onedrive\\escritorio\\juego\\juego\\piedra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FB281D2-EDDF-4AB7-AE05-5A35321C0D87}|juego\\juego.csproj|solutionrelative:juego\\piedra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB281D2-EDDF-4AB7-AE05-5A35321C0D87}|juego\\juego.csproj|c:\\users\\alan3\\onedrive\\escritorio\\juego\\juego\\tijera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FB281D2-EDDF-4AB7-AE05-5A35321C0D87}|juego\\juego.csproj|solutionrelative:juego\\tijera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Tijera.cs",
+              "DocumentMoniker": "C:\\Users\\alan3\\OneDrive\\Escritorio\\juego\\juego\\Tijera.cs",
+              "RelativeDocumentMoniker": "juego\\Tijera.cs",
+              "ToolTip": "C:\\Users\\alan3\\OneDrive\\Escritorio\\juego\\juego\\Tijera.cs",
+              "RelativeToolTip": "juego\\Tijera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T23:35:38.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Papel.cs",
+              "DocumentMoniker": "C:\\Users\\alan3\\OneDrive\\Escritorio\\juego\\juego\\Papel.cs",
+              "RelativeDocumentMoniker": "juego\\Papel.cs",
+              "ToolTip": "C:\\Users\\alan3\\OneDrive\\Escritorio\\juego\\juego\\Papel.cs",
+              "RelativeToolTip": "juego\\Papel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T23:35:16.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Piedra.cs",
+              "DocumentMoniker": "C:\\Users\\alan3\\OneDrive\\Escritorio\\juego\\juego\\Piedra.cs",
+              "RelativeDocumentMoniker": "juego\\Piedra.cs",
+              "ToolTip": "C:\\Users\\alan3\\OneDrive\\Escritorio\\juego\\juego\\Piedra.cs",
+              "RelativeToolTip": "juego\\Piedra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T23:34:57.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Tirada.cs",
+              "DocumentMoniker": "C:\\Users\\alan3\\OneDrive\\Escritorio\\juego\\juego\\Tirada.cs",
+              "RelativeDocumentMoniker": "juego\\Tirada.cs",
+              "ToolTip": "C:\\Users\\alan3\\OneDrive\\Escritorio\\juego\\juego\\Tirada.cs",
+              "RelativeToolTip": "juego\\Tirada.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T23:34:21.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Jugador.cs",
+              "DocumentMoniker": "C:\\Users\\alan3\\OneDrive\\Escritorio\\juego\\juego\\Jugador.cs",
+              "RelativeDocumentMoniker": "juego\\Jugador.cs",
+              "ToolTip": "C:\\Users\\alan3\\OneDrive\\Escritorio\\juego\\juego\\Jugador.cs",
+              "RelativeToolTip": "juego\\Jugador.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T23:36:10.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Maquina.cs",
+              "DocumentMoniker": "C:\\Users\\alan3\\OneDrive\\Escritorio\\juego\\juego\\Maquina.cs",
+              "RelativeDocumentMoniker": "juego\\Maquina.cs",
+              "ToolTip": "C:\\Users\\alan3\\OneDrive\\Escritorio\\juego\\juego\\Maquina.cs",
+              "RelativeToolTip": "juego\\Maquina.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T23:34:01.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\alan3\\OneDrive\\Escritorio\\juego\\juego\\Usuario.cs",
+              "RelativeDocumentMoniker": "juego\\Usuario.cs",
+              "ToolTip": "C:\\Users\\alan3\\OneDrive\\Escritorio\\juego\\juego\\Usuario.cs",
+              "RelativeToolTip": "juego\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T23:33:39.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Juego.cs",
+              "DocumentMoniker": "C:\\Users\\alan3\\OneDrive\\Escritorio\\juego\\juego\\Juego.cs",
+              "RelativeDocumentMoniker": "juego\\Juego.cs",
+              "ToolTip": "C:\\Users\\alan3\\OneDrive\\Escritorio\\juego\\juego\\Juego.cs",
+              "RelativeToolTip": "juego\\Juego.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T23:32:54.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\alan3\\OneDrive\\Escritorio\\juego\\juego\\Form1.cs",
+              "RelativeDocumentMoniker": "juego\\Form1.cs",
+              "ToolTip": "C:\\Users\\alan3\\OneDrive\\Escritorio\\juego\\juego\\Form1.cs*",
+              "RelativeToolTip": "juego\\Form1.cs*",
+              "ViewState": "AgIAABwAAAAAAAAAAADwvy8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T23:28:11.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\alan3\\OneDrive\\Escritorio\\juego\\juego\\Form1.cs",
+              "RelativeDocumentMoniker": "juego\\Form1.cs",
+              "ToolTip": "C:\\Users\\alan3\\OneDrive\\Escritorio\\juego\\juego\\Form1.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "juego\\Form1.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T22:50:21.322Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
